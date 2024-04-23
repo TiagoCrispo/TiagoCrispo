@@ -1,16 +1,24 @@
-### Hi there 👋
+# [Bio de Xxenu | Xxenu's Bio]("https://github.com/TiagoCrispo")
+<div>
+    <img align="right" alt="plaito" src="https://cdn.discordapp.com/emojis/859088644942069790.gif?v=1">
+</div>
 
-<!--
-**TiagoCrispo/TiagoCrispo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ↳ ESPAÑOL
+Oi oi! Yo soy solo un simple curioso estudiante, talvez de vez en cuando muestre lo que este haciendo en mis **repositórios**!  
+### Experiencia con:
+ - Python
+ - Javascript
+ - HTML e CSS
 
-Here are some ideas to get you started:
+*Também curto bash e linux :)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ↳ ENGLISH
+Heyas! I'm just a simple and student, maybe somedays might I show what I'm doing in my **repositories**!  
+### Experienced with:
+ - Python
+ - Javascript
+ - HTML and CSS
+
+*I also like bash :)*
