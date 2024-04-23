@@ -10,7 +10,7 @@ Oi oi! Yo soy solo un simple curioso estudiante, talvez de vez en cuando muestre
  - Javascript
  - HTML e CSS
 
-*Também curto bash e linux :)*
+*Tambien me gusta mi perro :)*
 
 ---
 
@@ -21,4 +21,4 @@ Heyas! I'm just a simple and student, maybe somedays might I show what I'm doing
  - Javascript
  - HTML and CSS
 
-*I also like bash :)*
+*I also like my dog :)*
